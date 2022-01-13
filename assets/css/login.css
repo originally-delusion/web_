@@ -9,6 +9,9 @@ body {
 }
 
 
+.header {
+  padding-top: 20px;
+}
 .loginAndRegBox {
   width: 400px;
   height: 310px;
