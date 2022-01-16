@@ -10,7 +10,7 @@ $(function() {
     // 指定预览区域
     preview: '.img-preview'
   }
-
+  
   // 1.3 创建裁剪区域
   $image.cropper(options)
 
